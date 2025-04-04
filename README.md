@@ -34,4 +34,16 @@ This Hospital Emergency Room Analysis Cantain 4 dashboard,
 *Key Takeaways - Summarizing the findings from all dashboards to provide clear and actionable insights for stakeholders.
 
 Hospital Emergency Room Analysis Dashboard 
--<a href = ""> View Dashboard </a>
+-<a href = "https://github.com/Rachana1649/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room.pbix"> View Dashboar</a>
+### Dashboard Snapshots
+![Monthly View](https://github.com/user-attachments/assets/f37baac4-08af-45b8-bac5-b02863e0745b)
+
+![Consolidated View](https://github.com/user-attachments/assets/e24f037c-239e-48ec-aa07-775f3f5ed181)
+
+![Patient Details](https://github.com/user-attachments/assets/c86fccb1-7f37-480d-b571-8b94bd13a2b3)
+
+![Key Takeaways](https://github.com/user-attachments/assets/e504eba2-aff1-4523-bb32-850ad3aaeb46)
+
+  
+
+
