@@ -33,4 +33,4 @@ This Hospital Emergency Room Analysis Cantain 4 dashboard,
 *Patient Details -  Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
 *Key Takeaways - Summarizing the findings from all dashboards to provide clear and actionable insights for stakeholders.
 
-
+Hospital Emergency Room Analysis Dashboard - 
